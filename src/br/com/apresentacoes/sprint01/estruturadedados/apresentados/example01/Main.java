@@ -8,6 +8,5 @@ public class Main {
         String nome2 = "Ana";
 
         ArrayList<String> nomes = new ArrayList<>();
-
     }
 }

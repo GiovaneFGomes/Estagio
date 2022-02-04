@@ -10,7 +10,7 @@ public class ListaDeContatos {
         matriculaAlunos.put(1001, "Giovane");
         matriculaAlunos.put(1002, "Giovana");
         matriculaAlunos.put(1003, "Ana");
-        matriculaAlunos.put(1004, "Matheu");
+        matriculaAlunos.put(1004, "Matheo");
         matriculaAlunos.put(1005, "Pedro");
         matriculaAlunos.put(1006, "Carlos");
         matriculaAlunos.put(1007, "Bella");

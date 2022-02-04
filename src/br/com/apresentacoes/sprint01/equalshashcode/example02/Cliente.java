@@ -3,13 +3,13 @@ package br.com.apresentacoes.sprint01.equalshashcode.example02;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
-
 import java.util.Objects;
 
 @AllArgsConstructor
 @Getter
 @Setter
 public class Cliente {
+
     private String name;
     private String email;
 
@@ -25,4 +25,5 @@ public class Cliente {
     public int hashCode() {
         return Objects.hash(name, email);
     }
+
 }

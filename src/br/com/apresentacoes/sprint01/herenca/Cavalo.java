@@ -12,4 +12,5 @@ public class Cavalo extends Animal{
     public void locomover() {
         super.locomover();
     }
+
 }

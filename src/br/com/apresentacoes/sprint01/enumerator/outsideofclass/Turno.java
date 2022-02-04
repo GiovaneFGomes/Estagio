@@ -1,6 +1,7 @@
-package br.com.apresentacoes.sprint01.enumerator.inside.example01;
+package br.com.apresentacoes.sprint01.enumerator.outsideofclass;
 
 public enum Turno {
+
     MANHA("Manhã."),
     TARDE("Tarde."),
     NOITE("Noite.");
@@ -14,4 +15,5 @@ public enum Turno {
     public String getDescricao(){
         return descricao;
     }
+
 }

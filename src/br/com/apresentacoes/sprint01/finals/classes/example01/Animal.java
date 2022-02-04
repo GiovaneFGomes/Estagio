@@ -1,4 +1,4 @@
-package br.com.apresentacoes.sprint01.finals.classes.apresentado;
+package br.com.apresentacoes.sprint01.finals.classes.example01;
 
 public final class Animal{
     private String nome;
